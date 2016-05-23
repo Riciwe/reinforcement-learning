@@ -1,0 +1,27 @@
+c:\users\ricardo\documents\visual studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\Reinforcement learning.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\Reinforcement learning.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\Reinforcement learning\Reinforcement learning\obj\x86\Debug\Reinforcement learning.csprojResolveAssemblyReference.cache
+c:\users\ricardo\documents\visual studio 2015\Projects\Reinforcement learning\Reinforcement learning\obj\x86\Debug\Reinforcement learning.exe
+c:\users\ricardo\documents\visual studio 2015\Projects\Reinforcement learning\Reinforcement learning\obj\x86\Debug\Reinforcement learning.pdb
+c:\users\ricardo\documents\visual studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\Content\Hud.xnb
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\Reinforcement learning.exe.config
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.xml
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Ricardo\Documents\Visual Studio 2015\Projects\Reinforcement learning\Reinforcement learning\bin\Windows\Debug\SharpDX.Direct3D9.xml

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Ricardo/Documents/Visual Studio 2015/Projects/Reinforcement learning/Reinforcement learning/Content/Hud.spritefont</SourceFile>
+  <SourceTime>2016-01-06T22:41:15.7136861+01:00</SourceTime>
+  <DestFile>C:/Users/Ricardo/Documents/Visual Studio 2015/Projects/Reinforcement learning/Reinforcement learning/Content/bin/Windows/Hud.xnb</DestFile>
+  <DestTime>2016-05-13T11:52:09.0861116+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T08:36:08+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T08:36:08+02:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
